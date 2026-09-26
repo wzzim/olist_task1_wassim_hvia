@@ -1,0 +1,3 @@
+delivery_status,orders,average_review_score,average_delivery_days,average_delay_days
+Late,7826,2.566505678109907,31.51888996258909,9.551775917880569
+On time / early,88652,4.294310676601906,10.884260306415007,-13.008280170071671

@@ -1,0 +1,18 @@
+metric,value
+total_orders,99441
+delivered_orders,96478
+cancelled_orders,625
+unavailable_orders,609
+date_min,2016-09-04 21:15:19
+date_max,2018-10-17 17:30:18
+total_payment_value,16008872.12
+average_payment_value,160.99
+unique_customers,96096
+unique_sellers,3095
+unique_categories,74
+average_review_score,4.09
+average_delivery_days_delivered_orders,12.56
+late_delivery_rate_delivered_orders,8.11
+late_order_average_review_score,2.57
+on_time_average_review_score,4.29
+repeat_customer_rate,3.12
